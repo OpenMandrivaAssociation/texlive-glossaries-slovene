@@ -1,6 +1,6 @@
 Name:		texlive-glossaries-slovene
 Version:	51211
-Release:	1
+Release:	2
 Summary:	Slovene language module for glossaries package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-slovene
