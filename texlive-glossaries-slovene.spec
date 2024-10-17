@@ -3,7 +3,7 @@ Version:	51211
 Release:	2
 Summary:	Slovene language module for glossaries package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-slovene
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-slovene
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-slovene.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-slovene.doc.r%{version}.tar.xz
